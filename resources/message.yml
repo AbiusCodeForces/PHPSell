@@ -1,0 +1,4 @@
+can.not.sell.this.item: "§cYou can not sell this item"
+sell.item.successfully: "§aYou sold §b{count} {item_name} §eand received {money}$"
+no.have.item.to.sell: "§cYou do not have item to sell"
+usage:  "§aUsage: §e/sell [all|hand]"

@@ -1,0 +1,8 @@
+name: PHPSell
+api: 5.0.0
+version: 1.0.0
+main: Abius\PHPSell\SellAll
+author: AbiusMatrix
+permissions:
+  sell.cmd:
+    default: true
